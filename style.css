@@ -6,3 +6,7 @@ p:first-of-type{
     color: red;
     padding: 20px;
 }
+
+.container{
+    border: 2px solid green;
+}
